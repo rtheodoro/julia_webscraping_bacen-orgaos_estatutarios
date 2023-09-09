@@ -2,7 +2,9 @@
 
 Objetivo deste script é fazer o download das informações, mas utilizando a linguagem `Julia`.
 
-Este script é a tradução de um script em `R`, que pode ser encontrado em [aqui](https://github.com/rtheodoro/orgaos-estatutarios-coop-cred-bacen)
+Este script é a tradução de um script em `R`, que pode ser encontrado em [aqui](https://github.com/rtheodoro/orgaos-estatutarios-coop-cred-bacen).
+
+Aqui será possível observar um exemplo de como pegar uma página de um site em `JSON`, baixar e coletar os dados.
 
 ## Como funciona
 
