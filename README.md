@@ -37,6 +37,8 @@ Então serão baixadas as infomações:
       nomeLiquidante
       
       filiacao
+
+OBS: Para conseguir rodar Julia no meu VSCode (no meu Ubuntu) precisei instalar o seguinte: `sudo apt-get install lld`
       
       ouvidoria
 
